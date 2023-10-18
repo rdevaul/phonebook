@@ -1,0 +1,88 @@
+provider_name,country_name,country_code,iso_cc,operator_id,provider_id,venue_name,pref_state_region,city_district,zipcode,address,category,node_type,node_class,node_count,altitude_m,latitude,longitude,radio
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Mateo,94403,220 West 20th Avenue,0,0,0,1,0,37.548501,-122.313224,F30A-21150039
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94103,1529 15th Street,0,macro,B,1,13.0,37.766694,-122.418323,12020004212217Y0051
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94103,1529 15th Street,0,macro,B,1,13.0,37.766694,-122.418323,12020004212217Y0042
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10014,145 Waverly Place,0,micro,A,1,1.0,40.733514,-74.000755,1202000291217RB0786
+XNETMOBILE,USA,1,XNET,Zeppelin,0,Victoria Plaza,Texas,San Antonio,78210,411 Barrera Street,0,0,0,1,0,29.414391,-98.484636,F30A-21150042
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,Texas,Houston,77004, Emancipation Avenue,0,0,0,1,0,29.731826,-95.367077,F30A-21130032
+XNETMOBILE,USA,1,XNET,fkart@msn.com,0,0,California,San Jose,95117,867 Daffodil Way,0,micro,A,1,2.0,37.311164,-121.971534,1202000291217RB0732
+XNETMOBILE,USA,1,XNET,fkart@msn.com,0,0,California,San Jose,95117,867 Daffodil Way,0,macro,B,1,6.0,37.311164,-121.97153,120200046421CKY0990
+XNETMOBILE,USA,1,XNET,wishplorer@gmail.com,0,0,California,Dublin,94568,4088 Kinsale Street,0,macro,B,1,8.0,37.705744,-121.859272,1202000470221TY0347
+XNETMOBILE,USA,1,XNET,denisstarubinskiy@gmail.com,0,0,California,San Francisco,94121,4046 Cabrillo Street,0,micro,A,1,1.0,37.77379,-122.50234,1202000291217RB0855
+XNETMOBILE,USA,1,XNET,jeremyr.miller@yahoo.com,0,0,Texas,Waller,77484,1101 Key Street,0,micro,A,1,1.0,30.0567,-95.92675,1202000291217RB0712
+XNETMOBILE,USA,1,XNET,mailvindo@gmail.com,0,0,California,Dublin,94568,3132 Aran Way,0,macro,B,1,8.0,37.705126,-121.858511,1202000470221TY0081
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,Texas,Houston,77003,3607 Commerce Street,0,0,0,1,0,29.750352,-95.337075,F30A-21300015
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Francisco,94110,2390 Mission Street,0,0,0,1,0,37.758723,-122.419376,FI03-20380006
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Francisco,94110,2390 Mission Street,0,0,0,1,0,37.758800,-122.419350,F30A-21320006
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10014,245 Waverly Place,0,0,0,1,0,40.736759,-74.001992,F30A-21140017
+XNETMOBILE,USA,1,XNET,cryptocharity2021@gmail.com,0,0,California,Pomona,91766,1620 West Phillips Drive,0,macro,B,1,5.0,34.046239,-117.7755,1202000470221TY0429
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,0,California,Los Angeles,90038,1025 North Highland Avenue,0,macro,B,1,18.0,34.089747,-118.338866,1202000240215KY0075
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77003,1801 Nagle Street,0,macro,B,1,13.0,29.74237,-95.35499,1202000395219NB0241
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77004,1738 Bremond Street,0,0,0,1,0,29.742026,-95.367305,FI03-21020001
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77002,1709 Commerce Street,0,0,0,1,0,29.760138,-95.353278,FI03-20460014
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77002,40 North Jackson Street,0,0,0,1,0,29.760378,-95.353162,F30A-21150033
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94114,465 Church Street,0,macro,B,2,10.0,37.76344,-122.42843,12020004212217Y0029
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77006,1977 Commonwealth Street,0,0,0,1,0,29.750081,-95.397864,F30A-21160040
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77006,1492 Welch Street,0,0,0,1,0,29.750060,-95.397789,F30A-21160039
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94110,940 Guerrero Street,0,macro,B,1,18.0,37.756024,-122.423492,12020004212217Y0180
+XNETMOBILE,USA,1,XNET,0,0,0,New York,New York,10036,1535 Broadway,0,0,0,1,0,40.758680,-73.985879,F30A-21160027
+XNETMOBILE,USA,1,XNET,0,0,0,New York,New York,10036,228 West 47th Street,0,0,0,1,0,40.759644,-73.986160,FI03-20420040
+XNETMOBILE,USA,1,XNET,alex@xnet.company,0,0,California,San Mateo,94403,2216 Springfield Way,0,macro,B,1,6.0,37.54847,-122.29691,1202000470221TY0269
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10021,1401 York Avenue,0,0,0,1,0,40.768751,-73.952337,F30A-21130030
+XNETMOBILE,USA,1,XNET,devicenuts@gmail.com,0,0,California,Ontario,91761,2913 South Caldwell Avenue,0,micro,A,1,1.0,34.020596,-117.639519,1202000291217RB0584
+XNETMOBILE,USA,1,XNET,fkart@msn.com,0,0,California,San Jose,95117,867 Daffodil Way,0,micro,A,1,2.0,37.311164,-121.971534,1202000291217RB0616
+XNETMOBILE,USA,1,XNET,vincenttran188@gmail.com,0,0,California,San Mateo,94403,2216 Springfield Way,0,macro,B,1,6.0,37.54847,-122.29691,1202000470221TY0441
+XNETMOBILE,USA,1,XNET,0,0,0,Texas,Stone Gate,77095,16898 Price Grove Lane,0,micro,A,1,1.0,29.9228,-95.6722,1202000291217RB0529
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,Balompié Cafe,California,San Francisco,94110,3349 18th Street,0,macro,B,1,17.0,37.761806,-122.417919,1202000240217GY0117
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,0,California,Los Angeles,90038,1025 North Highland Avenue,0,macro,B,1,18.0,34.089781,-118.339376,12020002402129Y0178
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Francisco,94110, 18th Street,0,macro,B,2,12.0,37.76184,-122.41819,12020002402118Y0297
+XNETMOBILE,USA,1,XNET,noveltelecomllc@gmail.com,0,0,California,San Mateo,94403,2216 Springfield Way,0,macro,B,1,6.0,37.54847,-122.29691,1202000470221TY0373
+XNETMOBILE,USA,1,XNET,com.expert@gmail.com,0,0,California,Sunnyvale,94089,520 Weddell Drive,0,micro,A,1,1.0,37.397009,-122.012969,1202000291217RB0558
+XNETMOBILE,USA,1,XNET,rodesmail@gmail.com,0,Platinum Financial Management,California,West Hollywood,90069,9200 West Sunset Boulevard,0,macro,B,1,18.0,34.089886,-118.392499,12020002402129Y0142
+XNETMOBILE,USA,1,XNET,0,0,0,Texas,Houston,77098,2605 Dunlavy Street,0,0,0,1,0,29.742468,-95.402065,F30A-21130010
+XNETMOBILE,USA,1,XNET,Zeppelin,0,Victoria Plaza,Texas,San Antonio,78210,411 Barrera Street,0,0,0,1,0,29.414362,-98.484641,FI03-20420020
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10014,215 West 11th Street,0,micro,A,1,1.0,40.736544,-74.00184,1202000291217RB0798
+XNETMOBILE,USA,1,XNET,elvisperezmedina@gmail.com,0,0,California,Bell Gardens,90201,5540 Quinn Street,0,macro,B,1,17.0,33.958999,-118.168991,1202000470221TY0029
+XNETMOBILE,USA,1,XNET,Leon.dza@gmail.com,0,0,California,Los Angeles,90017,1331 West Ingraham Street,0,micro,A,1,9.0,34.05373,-118.267903,1202000291217RB0554
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,Balompié Cafe,California,San Francisco,94110,3349 18th Street,0,macro,B,1,17.0,37.761806,-122.417919,120200024020CPY0002
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Francisco,94114,240 Cumberland Street,0,macro,B,1,17.0,37.758987,-122.428986,12020002402129Y0181
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,0,California,Los Angeles,90038,1025 North Highland Avenue,0,macro,B,1,18.0,34.089747,-118.338866,1202000240215KY0038
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,Balompié Cafe,California,San Francisco,94110,3349 18th Street,0,macro,B,1,20.0,37.761806,-122.417923,12020002402118Y0208
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94103, Mission Street,0,macro,B,2,13.0,37.768565,-122.41986,12020004212217Y0173
+XNETMOBILE,USA,1,XNET,hypemanhoops@gmail.com,0,0,California,Alameda,94501,553 Amber Isle,0,micro,A,1,1.0,37.763986,-122.26903,1202000291217RB0739
+XNETMOBILE,USA,1,XNET,Skypackets,0,Dos Caminos,New York,New York,10014,675 Hudson Street,0,macro,B,1,18.0,40.740616,-74.005405,1202000470221TY0357
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10033,507 West 186th Street,0,macro,B,1,20.0,40.851507,-73.929092,1202000470221TY0423
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10035,332 East 117th Street,0,macro,B,1,22.0,40.796952,-73.935866,1202000470221TY0122
+XNETMOBILE,USA,1,XNET,strikeone92@gmail.com,0,0,Texas,Dallas,75204,3711 Cole Avenue,0,macro,B,1,6.0,32.81021,-96.797901,1202000470221TY0153
+XNETMOBILE,USA,1,XNET,galick@gmail.com,0,0,California,0,95140, ,0,macro,B,1,8.0,37.329714,-121.583119,120200046421CKY0206
+XNETMOBILE,USA,1,XNET,sova@lta.network,0,0,Oregon,Portland,97206,5742 SE Harold Street,0,micro,A,1,6.0,45.48286,-122.603716,1202000291217RB0869
+XNETMOBILE,USA,1,XNET,chika1984@yahoo.com,0,0,Maryland,Fort Washington,20744,308 Syria Court,0,micro,A,1,7.0,38.731962,-77.006448,1202000291217RB0176
+XNETMOBILE,USA,1,XNET,chika1984@yahoo.com,0,0,Maryland,Fort Washington,20744,308 Syria Court,0,micro,A,1,1.0,38.731962,-77.006448,1202000291217RB0025
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,Balompié Cafe,California,San Francisco,94110,3349 18th Street,0,macro,B,1,17.0,37.761806,-122.417919,1202000240215KY0151
+XNETMOBILE,USA,1,XNET,cryptocharity2021@gmail.com,0,0,California,Pomona,91766,1620 West Phillips Drive,0,macro,B,1,5.0,34.046239,-117.7755,1202000470221TY0291
+XNETMOBILE,USA,1,XNET,rodesmail@gmail.com,0,0,0,0,0, ,0,macro,B,1,18.0,34.089886,-118.392499,12020002402129Y0088
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,Catalyst,Texas,Houston,77002,1475 Texas Avenue,0,micro,A,1,1.0,29.75785,-95.3582,1202000291217RB0270
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,Catalyst,Texas,Houston,77002,1475 Texas Avenue,0,micro,A,1,1.0,29.7582,-95.3581,1202000291217RB0386
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,Catalyst,Texas,Houston,77002,1475 Texas Avenue,0,micro,A,1,1.0,29.7582,-95.3581,1202000291217RB0837
+XNETMOBILE,USA,1,XNET,com.expert@gmail.com,0,0,California,Sunnyvale,94089,520 Weddell Drive,0,micro,A,1,1.0,37.397009,-122.012969,1202000291217RB0320
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,0,California,Bell Gardens,90201,6623 Jaboneria Road,0,micro,A,1,1.0,33.97106,-118.15521,1202000291217RB0290
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Colorado,Denver,80205,2928 Arapahoe Street,0,macro,B,1,11.0,39.760327,-104.9793,12020002402118Y0299
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,California,San Mateo,94403,2216 Springfield Way,0,macro,B,1,6.0,37.54847,-122.29691,1202000470221TY0164
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77004,1746 Bremond Street,0,macro,B,1,13.0,29.742,-95.36725,120200039521AGB0686
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10033,507 West 186th Street,0,macro,B,1,67.0,40.851512,-73.929109,1202000470221TY0065
+XNETMOBILE,USA,1,XNET,Apicultor,0,0,New York,New York,10014,243 Waverly Place,0,0,0,1,0,40.736736,-74.001954,F30A-21130047
+XNETMOBILE,USA,1,XNET,coltonzocher@outlook.com,0,0,California,Los Angeles,90038,1025 North Highland Avenue,0,macro,B,1,18.0,34.089781,-118.339376,1202000240215KY0268
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,California,San Francisco,94110,2954 21st Street,0,macro,B,2,11.0,37.7574,-122.4136,12020004212217Y0072
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77003,2692 Dallas Street,0,0,0,1,0,29.746665,-95.351771,F30A-21300029
+XNETMOBILE,USA,1,XNET,josh@longfisolutions.com,0,0,Texas,Houston,77003,2678 Dallas Street,0,0,0,1,0,29.746712,-95.351854,F30A-21300020
+XNETMOBILE,USA,1,XNET,0,0,0,Texas,Houston,77006,1665 Westheimer Road,0,0,0,1,0,29.742688,-95.401916,F30A-21130019
+XNETMOBILE,USA,1,XNET,0,0,0,California,Los Angeles,90020,306 South Alexandria Avenue,0,macro,B,1,22.0,34.068656,-118.297712,120200024020CPY0130
+XNETMOBILE,USA,1,XNET,gabrielchavarria124@gmail.com,0,0,Texas,Stone Gate,77095,16898 Price Grove Lane,0,micro,A,1,1.0,29.922792,-95.67222,1202000291217RB0838
+XNETMOBILE,USA,1,XNET,gabrielchavarria124@gmail.com,0,0,Texas,Houston,77056,5250 Brownway Street,0,macro,B,1,81.0,29.741136,-95.468507,1202000470221TY0296
+XNETMOBILE,USA,1,XNET,bergje11@gmail.com,0,0,Texas,Houston,77056,5250 Brownway Street,0,macro,B,1,81.0,29.741127,-95.468486,1202000470221TY0019
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,0,Texas,Houston,77056,5250 Brownway Street,0,0,0,1,0,29.741411,-95.468787,FI03-20430020
+XNETMOBILE,USA,1,XNET,az-dc@outlook.com,0,0,Texas,Houston,77056,3 Milan Estates,0,0,0,1,0,29.741156,-95.470344,F30A-21180020
+XNETMOBILE,USA,1,XNET,steve@hexagonwireless.com,0,0,California,San Mateo,94403,1950 Elkhorn Ct Unit 302,0,0,0,1,0,37.549007,-122.313135,F30A-21310012
+XNETMOBILE,USA,1,XNET,Zeppelin,0,0,Texas,Houston,77098,1975 Lexington Street,0,0,0,1,0,29.731446,-95.408393,FI03-20430009
+XNETMOBILE,USA,1,XNET,noveltelecomllc@gmail.com,0,0,California,Pomona,91766,1620 West Phillips Drive,0,micro,A,1,1.0,34.046081,-117.775475,1202000291217RB0447
+XNETMOBILE,USA,1,XNET,bergje11@gmail.com,0,0,Texas,Houston,77056,5250 Brownway Street,0,macro,B,1,81.0,29.741127,-95.468486,1202000470221TY0187
